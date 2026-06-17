@@ -100,6 +100,7 @@ Platforms and tools for managing the sales process.
 ### Lead Scoring
 
 - [MadKudu](https://www.madkudu.com/) - Predictive lead scoring for B2B.
+- [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence: scores accounts from PostHog product usage + CRM signals and routes the warmest leads to reps. Self-hostable (AGPLv3).
 - [Leadfeeder](https://www.leadfeeder.com/) - Identify companies visiting your website.
 - [Visitor Queue](https://www.visitorqueue.com/) - Website visitor identification.
 
