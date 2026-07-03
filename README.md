@@ -124,6 +124,7 @@ Platforms and tools for managing the sales process.
 - [Activepieces](https://www.activepieces.com/) - Open-source alternative to Zapier.
 
 ---
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform that helps with lead capture, segmentation, campaigns, and customer journeys.
 
 ## Email Finding and Verification
 
