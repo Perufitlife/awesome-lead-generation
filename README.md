@@ -134,6 +134,7 @@ Platforms and tools for managing the sales process.
 - [NeverBounce](https://neverbounce.com/) - Email list cleaning and verification.
 - [ZeroBounce](https://www.zerobounce.net/) - Email validation with data enrichment.
 - [EmailListVerify](https://emaillistverify.com/) - Bulk email verification at low cost.
+- [FairValid](https://fairvalid.com/) - Email verification and FairMatch work-email discovery with 300 shared free credits each month.
 - [Reacher](https://reacher.email/) - Open-source email verification.
 
 ---
